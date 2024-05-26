@@ -1,3 +1,25 @@
+  
+
+/**---------------------------------------------------
+ * Akdeniz University CSE122 Physics II Homework
+ * @author: Yahya Efe Kuruçay
+ * @since: 26.05.2024
+ * Description: Homework
+ * Score: ?
+ * Website: https://efekurucay.com
+*---------------------------------------------------*/
+
+
+/***
+ *    ███████ ███████ ███████   |    ███████ ███████ ███████ 
+ *    ██      ██      ██        |    ██      ██      ██      
+ *    █████   █████   █████     |    █████   █████   █████   
+ *    ██      ██      ██        |    ██      ██      ██      
+ *    ███████ ██      ███████   |    ███████ ██      ███████ 
+ *                            
+ *                            
+ */
+
 public class electric_potential {
     public static void main(String[] args) {
         // Öğrenci numarası ve yük hesaplamaları
