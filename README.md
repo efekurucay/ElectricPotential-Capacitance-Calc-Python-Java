@@ -1,12 +1,19 @@
-# Electric Potential Calculation
+#  Akdeniz University CSE-112-Physics-II Final Exam Homework Part
 
-This project is prepared for the Spring 2024 Physics II assignment at Akdeniz University.
-PDF writes instructions in the document.
+Hello, I am Yahya Efe Kuruçay.
 
-## Overview
+I am a computer engineering student at Akdeniz University.
 
-In this project, a 10x10 matrix is created, and the electric potential at each cell is calculated. The charge (q) is located at the bottom left corner of the matrix. The electric potential is calculated according to Coulomb's law:
+This repo contains the programming assignments I have completed in my Akdeniz University physics lectures.
 
-## Installation
+The assignments are written in Java.
 
-You need to download some parts to import in the Python code
+For more information about the content of the assignments and the technologies I used, 
+please see the README files (generally there are pdf's in the folders) for the respective assignments.
+
+I share this repo to leave a digital footprint on the internet. I don't know why, I just like it.
+
+If you have any questions, please feel free to contact me at <a href="https://www.efekurucay.com/" style="color: #00b006;">my website</a>.
+
+Thank you.
+2024.
